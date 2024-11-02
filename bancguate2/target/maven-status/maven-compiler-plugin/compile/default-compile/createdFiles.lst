@@ -1,0 +1,6 @@
+com\example\bancguate\controller\TipoCambioController.class
+com\example\bancguate\model\SolicitudLog.class
+com\example\bancguate\BancguateApplication.class
+com\example\bancguate\model\TipoCambio.class
+com\example\bancguate\repository\SolicitudLogRepository.class
+com\example\bancguate\service\TipoCambioService.class
